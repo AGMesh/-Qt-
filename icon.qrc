@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icon/folder.ico</file>
+        <file>icon/info.ico</file>
+        <file>icon/istas.png</file>
+        <file>icon/delete.ico</file>
+        <file>icon/diagram.ico</file>
+        <file>icon/document.ico</file>
+        <file>icon/save.ico</file>
+        <file>icon/en_US.png</file>
+        <file>icon/fr_BE.png</file>
+        <file>icon/ru_RU.png</file>
+        <file>icon/apariencia.ico</file>
+        <file>icon/color.ico</file>
+        <file>icon/Apps-Qt-icon.png</file>
+        <file>icon/plus.ico</file>
+    </qresource>
+</RCC>

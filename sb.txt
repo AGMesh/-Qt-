@@ -1,0 +1,7 @@
+Corsair;Carbide 400R;MidiTower;0;ATX;2;1;6989;
+Corsair;Carbide 200R;MidiTower;0;ATX;2;0;4950;
+Zalman;MS800;MidiTower;0;ATX;2;1;4850;
+Cooler Master;CM 690 III;BigTower;0;ATX;2;0;7030;
+AeroCool;XPredator Evil;BigTower;0;mATX;4;1;11408;
+HP;Z0J81EA;SlimLine;1;ATX;4;0;4850;
+LinkWorld;LC820-01B;Desktop;1;ITX;2;1;2870;
